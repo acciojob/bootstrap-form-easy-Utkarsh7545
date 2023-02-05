@@ -1,2 +1,38 @@
+.col-md-7{
+	position: absolute;
+	left: 40.5vh;
+	top: 1.5vh;
+}
+.col-13{
+	position: absolute;
+	left: 79vh;
+	top: 1.5vh;
+}
+#inputAddress2{
+	width: 54vh;
+}
+.col-md-4{
+	position: absolute;
+	left: 59.5vh;
+	top: 9.8vh;
+}
+#inputState{
+	width: 25.5vh;
+}
+.col-md-2{
+	position: absolute;
+	left: 87vh;
+	top: 9.8vh;
+}
+#inputZip{
+	width: 27vh;
+}
 
-/* Your CSS Code here. */
+
+
+
+
+
+
+
+
