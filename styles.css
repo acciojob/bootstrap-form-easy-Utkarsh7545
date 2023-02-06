@@ -1,38 +1,13 @@
-.col-md-7{
-	position: absolute;
-	left: 40.5vh;
-	top: 1.5vh;
+.box{
+    border: 1px solid rgb(62, 55, 55);
+    margin: 10px;
+    border-radius: 20px;
 }
-.col-13{
-	position: absolute;
-	left: 79vh;
-	top: 1.5vh;
+h1{
+    padding: 20px 10px;
+    text-align: center;
 }
-#inputAddress2{
-	width: 54vh;
+form{
+    padding: 10px;
+    margin: 10px;
 }
-.col-md-4{
-	position: absolute;
-	left: 59.5vh;
-	top: 9.8vh;
-}
-#inputState{
-	width: 25.5vh;
-}
-.col-md-2{
-	position: absolute;
-	left: 87vh;
-	top: 9.8vh;
-}
-#inputZip{
-	width: 27vh;
-}
-
-
-
-
-
-
-
-
-
